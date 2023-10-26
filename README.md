@@ -2,7 +2,6 @@
 Welcome to the Lab Markdown repository! This space is dedicated<br> to understanding and mastering the art of Markdown, a lightweight and easy-to-use markup language that allows you to format plain text.<br> Markdown is widely used for creating documentation, README files, and even blogs.<br> In this lab, you will learn the fundamentals of Markdown syntax, including headers, lists, links, code blocks, and more.<br>
 
 Feel free to explore the resources and exercises in this repository to enhance your Markdown skills.<br> Whether you are a beginner or an experienced developer, mastering Markdown will empower you to create clear and well-formatted documents for your projects.<br> Let's dive in and elevate your Markdown game!<br>
-
 ## Rules for Writing README.md:
 1. Clarity: Make sure your content is clear and easy to understand.
 2. Sections: Divide your document into sections for easy navigation.
@@ -17,10 +16,14 @@ Feel free to explore the resources and exercises in this repository to enhance y
 ## Markdown Styling Commands:
 1. Headers (`#`, `##`, `###`):
 ```
-# Header 1
-## Header 2
-### Header 3
+# hussein
+## Bouik
+### boom
 ```
+# hussein
+## Bouik
+### boom
+
 ***Headers are used to create section titles. Use `#` for the main title, `##` for subsections, and so on.***
 2. Emphasis (Bold `**`, Italic `*`):
 
@@ -28,32 +31,41 @@ Feel free to explore the resources and exercises in this repository to enhance y
 **Bold Text**
 *Italic Text*
 ```
+**Bold**
+*Italic*
+
 ***Use `**` for bold and `*` for italic. Wrap the text you want to emphasize with these symbols.***
 3. Lists (`-`, `1.`):
 
 ```
-- Item 1
-- Item 2
-  - Subitem 2.1
-1. Ordered Item 1
-2. Ordered Item 2
+- php 1
+- html 2
+  - javascript 2.1
+1. Boom 1
+2. Done 2
 ```
+- php 1
+- html 2
+  - javascript 2.1
+1. Boom 1
+2. Done 2
+
 Use `-` for unordered (bullet) lists and `1.` for ordered lists.
 4. Links (`[]``()`):
 ```
-[Link Text](https://www.example.com)
+[hussein](https://github.com/husseinbouik)
 ```
-
+[hussein](https://github.com/husseinbouik)
 5. Images (`![]``()`):
 ```
 ![Alt Text](image-url)
 ```
+![Dog](https://drive.google.com/file/d/174CxP-4oK0mWukz59RI3ZeYCtMV4GaT4/view?usp=drive_link)
 6. Code Blocks (`,` ` language`):
 ```
 Use three backticks (```) for code blocks. Optionally, specify the programming language after the opening three backticks for syntax highlighting.
 
 ```
-
 7. Tables (`|`):
 ```
 | Header 1 | Header 2 |
@@ -61,20 +73,28 @@ Use three backticks (```) for code blocks. Optionally, specify the programming l
 | Row 1    | Row 1    |
 | Row 2    | Row 2    |
 ```
+| Header 1 | Header 2 |
+|----------|----------|
+| Row 1    | Row 1    |
+| Row 2    | Row 2    |
+
 8. Quotes  (`>`):
 ```
 > This is a quote.
 ```
+> This is a quote.
+
 9. Task Lists (`-` `[ ]`, `-` `[x]`):
 ```
 - [x] Task 1
 - [ ] Task 2
 ```
-
+- [x] Task 1
+- [ ] Task 2
 10. Horizontal Line (`---`):
 ```
 ---
 ```
+
+---
 Remember, a well-organized and well-formatted README.md not only helps users understand your project<br> better but also encourages collaboration and contributions.<br> Use these commands wisely to create an informative and visually appealing README.md file for your projects.
-# Author :
-[Jalil Betroji - Github Profile](https://github.com/Jalil-Betroji)
