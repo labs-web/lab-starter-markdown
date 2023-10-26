@@ -60,7 +60,7 @@ Use `-` for unordered (bullet) lists and `1.` for ordered lists.
 ```
 ![Alt Text](image-url)
 ```
-![Dog](https://drive.google.com/file/d/174CxP-4oK0mWukz59RI3ZeYCtMV4GaT4/view?usp=drive_link)
+![Dog](https://unsplash.com/fr/photos/faccia-di-cane-2l0CWTpcChI)
 6. Code Blocks (`,` ` language`):
 ```
 Use three backticks (```) for code blocks. Optionally, specify the programming language after the opening three backticks for syntax highlighting.
