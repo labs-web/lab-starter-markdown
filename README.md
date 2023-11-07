@@ -1,4 +1,5 @@
 # lab-markdown
+## Work to do: what is the steps to make a good markdown file
 Welcome to the Lab Markdown repository! This space is dedicated<br> to understanding and mastering the art of Markdown, a lightweight and easy-to-use markup language that allows you to format plain text.<br> Markdown is widely used for creating documentation, README files, and even blogs.<br> In this lab, you will learn the fundamentals of Markdown syntax, including headers, lists, links, code blocks, and more.<br>
 
 Feel free to explore the resources and exercises in this repository to enhance your Markdown skills.<br> Whether you are a beginner or an experienced developer, mastering Markdown will empower you to create clear and well-formatted documents for your projects.<br> Let's dive in and elevate your Markdown game!<br>
