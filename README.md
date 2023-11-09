@@ -2,18 +2,18 @@
 ## Work to do: 
 Bienvenue dans le projet "Arbre des Compétences Projet" ! Cet exercice vous permettra de suivre vos compétences et leur amélioration au fil du temps en créant un arbre des compétences spécifique à vos projets de développement web. Une fois que vous avez créé votre arbre des compétences, votre tâche consiste à rédiger un bon fichier README décrivant les étapes de votre projet.
 
-*Exercice*
-- Documentez votre Arbre des Compétences Projet :
+**Exercice**
+1. **Documentez votre Arbre des Compétences Projet :**
 
  - Créez un fichier Markdown nommé ArbreDesCompetences.md.
  - Utilisez les techniques de formatage Markdown pour présenter clairement votre arbre des compétences.
  - Expliquez chaque compétence et son importance dans le contexte du développement web.
-- Rédigez un README pour votre Projet :
+2. **Rédigez un README pour votre Projet :**
 
  - Créez un fichier Markdown nommé README.md.
  - Utilisez les règles pour écrire un bon README, telles que la clarté, les sections bien définies, les instructions d'installation, l'utilisation, la contribution, la licence, les images et les liens.
  - Décrivez les étapes pour créer un arbre des compétences projet similaire au vôtre.
-- Soumettez votre Projet :
+3. **Soumettez votre Projet :**
 
  - Créez un dossier nommé ArbreDesCompetencesProjet dans ce répertoire.
  - Ajoutez vos fichiers ArbreDesCompetences.md et README.md à ce dossier.
