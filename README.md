@@ -3,20 +3,20 @@
 Bienvenue dans le projet "Arbre des Compétences Projet" ! Cet exercice vous permettra de suivre vos compétences et leur amélioration au fil du temps en créant un arbre des compétences spécifique à vos projets de développement web. Une fois que vous avez créé votre arbre des compétences, votre tâche consiste à rédiger un bon fichier README décrivant les étapes de votre projet.
 
 **Exercice**
-1. **Documentez votre Arbre des Compétences Projet :**
+1. **Document Your Skills Tree Project :**
 
- - Créez un fichier Markdown nommé ArbreDesCompetences.md.
- - Utilisez les techniques de formatage Markdown pour présenter clairement votre arbre des compétences.
- - Expliquez chaque compétence et son importance dans le contexte du développement web.
-2. **Rédigez un README pour votre Projet :**
+  - Create a Markdown file named SkillsTree.md.
+  - Use Markdown formatting techniques to clearly present your skills tree.
+  - Explain each skill and its importance in the context of web development.
+2. **Write a README for Your Project :**
 
- - Créez un fichier Markdown nommé README.md.
- - Utilisez les règles pour écrire un bon README, telles que la clarté, les sections bien définies, les instructions d'installation, l'utilisation, la contribution, la licence, les images et les liens.
- - Décrivez les étapes pour créer un arbre des compétences projet similaire au vôtre.
-3. **Soumettez votre Projet :**
+  - Create a Markdown file named README.md.
+  - Follow the guidelines for writing a good README, such as clarity, well-defined sections, installation instructions, usage, contribution guidelines, licensing, images, and links.
+  - Describe the steps to create a skills tree project similar to yours.
+3. **Submit Your Project :**
 
- - Créez un dossier nommé ArbreDesCompetencesProjet dans ce répertoire.
- - Ajoutez vos fichiers ArbreDesCompetences.md et README.md à ce dossier.
+  - Create a folder named SkillsTreeProject in this repository.
+  - Add your SkillsTree.md and README.md files to this folder.
 
 
 Feel free to explore the resources and exercises in this repository to enhance your Markdown skills.<br> Whether you are a beginner or an experienced developer, mastering Markdown will empower you to create clear and well-formatted documents for your projects.<br> Let's dive in and elevate your Markdown game!<br>
