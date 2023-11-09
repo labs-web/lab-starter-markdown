@@ -1,6 +1,23 @@
 # lab-markdown
-## Work to do: what is the steps to make a good markdown file
-Welcome to the Lab Markdown repository! This space is dedicated<br> to understanding and mastering the art of Markdown, a lightweight and easy-to-use markup language that allows you to format plain text.<br> Markdown is widely used for creating documentation, README files, and even blogs.<br> In this lab, you will learn the fundamentals of Markdown syntax, including headers, lists, links, code blocks, and more.<br>
+## Work to do: 
+Bienvenue dans le projet "Arbre des Compétences Projet" ! Cet exercice vous permettra de suivre vos compétences et leur amélioration au fil du temps en créant un arbre des compétences spécifique à vos projets de développement web. Une fois que vous avez créé votre arbre des compétences, votre tâche consiste à rédiger un bon fichier README décrivant les étapes de votre projet.
+
+*Exercice*
+- Documentez votre Arbre des Compétences Projet :
+
+ - Créez un fichier Markdown nommé ArbreDesCompetences.md.
+ - Utilisez les techniques de formatage Markdown pour présenter clairement votre arbre des compétences.
+ - Expliquez chaque compétence et son importance dans le contexte du développement web.
+- Rédigez un README pour votre Projet :
+
+ - Créez un fichier Markdown nommé README.md.
+ - Utilisez les règles pour écrire un bon README, telles que la clarté, les sections bien définies, les instructions d'installation, l'utilisation, la contribution, la licence, les images et les liens.
+ - Décrivez les étapes pour créer un arbre des compétences projet similaire au vôtre.
+- Soumettez votre Projet :
+
+ - Créez un dossier nommé ArbreDesCompetencesProjet dans ce répertoire.
+ - Ajoutez vos fichiers ArbreDesCompetences.md et README.md à ce dossier.
+
 
 Feel free to explore the resources and exercises in this repository to enhance your Markdown skills.<br> Whether you are a beginner or an experienced developer, mastering Markdown will empower you to create clear and well-formatted documents for your projects.<br> Let's dive in and elevate your Markdown game!<br>
 
