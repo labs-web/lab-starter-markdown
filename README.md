@@ -9,7 +9,7 @@
 - **Téléphone :** +212 632718980
 - **Email :** husseinbouik5@gmail.com
 - **Adresse :** Tanger, Av Aicha Moussafer résidence Aicha
-- **LinkedIn :** [hussein bouik](https://www.linkedin.com/in/husseinbouik)
+- **LinkedIn :** [hussein bouik](https://www.linkedin.com/in/hussein-bouik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **GitHub :** [husseinbouik](https://github.com/husseinbouik)
 
 ## Formations
