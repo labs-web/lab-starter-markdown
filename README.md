@@ -2,8 +2,7 @@
 ## Travail à Faire
 
 1. Rédigez un CV au format Markdown pour le fichier README sur GitHub.
-2. Acquérir une maîtrise de la création et de la mise en forme d'un CV en Markdown.
-3. Respecter la mise en page standard d'un CV, incluant les sections telles que l'en-tête, l'expérience professionnelle, la formation, les compétences, etc.
+2. Respecter la mise en page standard d'un CV, incluant les sections telles que l'en-tête, l'expérience professionnelle, la formation, les compétences, etc.
 
 ## Critères de Validation
 
