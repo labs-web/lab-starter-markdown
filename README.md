@@ -22,6 +22,10 @@
 
 ## Critère de validation 
 - Utilisation des images
+
+## Comment envoyer les livrable 
+
+<!-- TODO : Explication de fork, pullrequest -->
   
 ## Références 
 <!-- TODO : ajouter une référence -->
