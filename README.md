@@ -1,10 +1,27 @@
-# GitHub-markdown
+# lab starter markdown
 
- ###  Tâche : Mise en forme d'un document en Markdown
+<!-- TODO : Introduction : 
+- première lab, 
+- lab suivant : lab-gitflow
+-->
 
-###  Description de la tâche :
- Vous devez formater un document en Markdown en utilisant divers éléments de mise en forme, notamment des titres, du texte en gras, en italique, barré, des citations, des citations de code, des liens, des listes non ordonnées et des listes de tâches.
- ###  references : 
- #### github documentation markdown [GitHub documentation markdown ](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
- ### livrable :
- ####  [Livre de Randonnée ](https://github.com/zaani12/CNMH/blob/main/Branche-technique/labs/lab%20Github-markdown/randonner.md)
+## Réalisation d'un lab 
+- Rédaction de travail à faire 
+- Création des fichiers livrable vide pour aider les membres à bien réaliser les tâches.
+
+## Travail à faire 
+
+1. Création de présentation de solicode en markdown
+   - les livrable doit être enregistre dans le dossier ``Présentation-solicode``
+   - Livrable 1 : solicode.md
+   - Livrable 2 : readme.md
+
+2. Présentation de lab-starter
+   - Livrable 1 : présentation.ppx
+   - Livrable 2 : readme.md
+
+## Critère de validation 
+- Utilisation des images
+  
+## Références 
+<!-- TODO : ajouter une référence -->
